@@ -5,10 +5,10 @@
 因此，以上笔记不会包含这些内容，请留意。
 
 # 思维导图
-XMind格式，可以导入Xmind APP进行查看或编辑：[下载Xmind格式版](https://markdown.com.cn)
-PDF格式：[下载PDF格式版](https://markdown.com.cn)
-JPG格式高清图片：[下载JPG格式版](https://markdown.com.cn)
+XMind格式，可以导入Xmind APP进行查看或编辑：[下载Xmind格式版](https://hurricanedd.github.io/nuaa-c-notes/)
+PDF格式：[下载PDF格式版](https://hurricanedd.github.io/nuaa-c-notes/)
+JPG格式高清图片：[下载JPG格式版](https://hurricanedd.github.io/nuaa-c-notes/)
 
 # 习题集（题库）
 思维导图中有提到“复习题集第xx题”，题集来自于此。
-复习题集：[下载Word格式版](https://markdown.com.cn)
+复习题集：[下载Word格式版](https://hurricanedd.github.io/nuaa-c-notes/)
