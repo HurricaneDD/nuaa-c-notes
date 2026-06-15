@@ -12,10 +12,10 @@ PDF格式：[下载PDF格式版](https://hurricanedd.github.io/nuaa-c-notes/C语
 JPG格式高清图片：[下载JPG格式版](https://hurricanedd.github.io/nuaa-c-notes/C语言笔记最终版.jpg)
 <br>
 
-# 习题集（题库）
-思维导图中有提到“复习题集第xx题”，题集来自于此。
+# 我校的习题集（题库）
+思维导图中有提到“复习题集第xx题”，题目来自于此。
 <br>
 复习题集：[下载Word格式版](https://hurricanedd.github.io/nuaa-c-notes/C语言考试复习题集.pdf)
 
-# 真题 - 大部分年份久远
+# 我校的真题 - 大部分年份久远
 真题集：[下载Zip压缩包](https://hurricanedd.github.io/nuaa-c-notes/C语言程序设计自整理真题集（残缺）.zip)
